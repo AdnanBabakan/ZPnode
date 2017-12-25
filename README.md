@@ -8,7 +8,9 @@ Clone or download files and put them in a folder on you system and from your CLI
 ```
 npm i body-parser ejs express express-session jdate mime-types mysql soap
 ```
-Then open appConfig.js file in order to set your options.
+Then open appConfig.js file in order to set your options. And be sure that you have installed MySql server on your computer or you have access to other one.
+
+Then upload the file which is in "Database to Upload" folder in order to have your database ready.
 
 After doing so run the program by the command below ( Make sure that you are in the folder which run.js file is located ):
 ```
