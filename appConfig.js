@@ -11,5 +11,5 @@ module.exports = {
 	adminUsername: 'admin',
 	adminPassword: '123456',
 	//Developers Option
-	zarinpalSoapServer: 'https://sandbox.zarinpal.com/pg/services/WebGate/wsdl'
+	zarinpalSoapServer: 'https://zarinpal.com/pg/services/WebGate/wsdl'
 }
