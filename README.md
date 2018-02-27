@@ -4,6 +4,10 @@ Zarinpal Node.js payment gateway is a program which will help you to use Zarinpa
 ## Install
 Before going any further make sure that you have Node.js installed on you computer, To install Node.js please visit https://nodejs.org/en/ .
 
+In order to use this app you need to install MySQL. Doing this is easy by install XAMPP:
+
+https://www.apachefriends.org/
+
 Clone or download files and put them in a folder on you system and from your CLI ( On Windows CMD, On Linux and Mac Terminal ) change your directory to the folder you have these files in. Then kindly do the commands below to install dependencies.
 ```
 npm i body-parser ejs express express-session jdate mime-types mysql soap
