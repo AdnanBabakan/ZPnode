@@ -1,4 +1,4 @@
-# zpnode
+# ZPnode
 Zarinpal Node.js payment gateway is a program which will help you to use Zarinpal on Node.js servers easily.
 
 ## Install
