@@ -8,11 +8,11 @@ In order to use this app you need to install MySQL. Doing this is easy by instal
 
 https://www.apachefriends.org/
 
-Clone or download files and put them in a folder on you system and from your CLI ( On Windows CMD, On Linux and Mac Terminal ) change your directory to the folder you have these files in. Then kindly do the commands below to install dependencies.
+Clone or download files and put them in a folder on your system and from your CLI ( On Windows CMD, On Linux and Mac Terminal ) change your directory to the folder you have these files in. Then kindly do the commands below to install dependencies.
 ```
 npm i body-parser ejs express express-session jdate mime-types mysql soap
 ```
-Then open appConfig.js file in order to set your options. And be sure that you have installed MySql server on your computer or you have access to other one.
+Next open appConfig.js file in order to set your options, And be sure that you have installed MySQL server on your computer or you have access to an appropriate one.
 
 Then upload the file which is in "Database to Upload" folder in order to have your database ready.
 
